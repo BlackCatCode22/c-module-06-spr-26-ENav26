@@ -1,0 +1,30 @@
+Zoo New Animal Report
+
+Hyena Habitat:
+Hy01; Shenzi; birth date 2020-03-15; 4 years old; tan color; female; 70 pounds; from Friguia Park, Tunisia; arrived 2024-03-05
+Hy02; Banzai; birth date 2012-09-15; 12 years old; brown color; male; 150 pounds; from Friguia Park, Tunisia; arrived 2024-03-05
+Hy03; Ed; birth date 2020-03-15; 4 years old; black color; male; 120 pounds; from Friguia Park, Tunisia; arrived 2024-03-05
+Hy04; Zig; birth date 2016-01-01; 8 years old; black and tan striped color; female; 105 pounds; from Friguia Park, Tunisia; arrived 2024-03-05
+Total hyenas: 4
+
+Lion Habitat:
+Li01; Scar; birth date 2018-03-15; 6 years old; tan color; female; 300 pounds; from Zanzibar, Tanzania; arrived 2024-03-05
+Li02; Mufasa; birth date 2012-12-15; 12 years old; dark tan color; female; 375 pounds; from KopeLion, Tanzania; arrived 2024-03-05
+Li03; Simba; birth date 2002-09-15; 22 years old; golden color; male; 450 pounds; from Zanzibar, Tanzania; arrived 2024-03-05
+Li04; Kiara; birth date 2020-03-15; 4 years old; tan and brown color; female; 275 pounds; from KopeLion, Tanzania; arrived 2024-03-05
+Total lions: 4
+
+Tiger Habitat:
+Ti01; Tony; birth date 2022-03-15; 2 years old; gold and tan stripes color; male; 270 pounds; from Dhaka, Bangladesh; arrived 2024-03-05
+Ti02; Tigger; birth date 2020-03-15; 4 years old; black stripes color; female; 400 pounds; from Dhaka, Bangladesh; arrived 2024-03-05
+Ti03; Amber; birth date 2006-09-15; 18 years old; gold and tan color; male; 300 pounds; from Bardia, Nepal; arrived 2024-03-05
+Ti04; Cosimia; birth date 2021-03-15; 3 years old; black stripes color; female; 285 pounds; from Bardia, Nepal; arrived 2024-03-05
+Total tigers: 4
+
+Bear Habitat:
+Be01; Yogi; birth date 2017-03-15; 7 years old; brown color; male; 320 pounds; from Alaska Zoo, Alaska; arrived 2024-03-05
+Be02; Smokey; birth date 1999-03-15; 25 years old; black color; female; 425 pounds; from Woodland park Zoo, Washington ; arrived 2024-03-05
+Be03; Paddington; birth date 2020-09-15; 4 years old; black color; female; 355 pounds; from Woodland park Zoo, Washington ; arrived 2024-03-05
+Be04; Lippy; birth date 2020-03-15; 4 years old; brown color; male; 405 pounds; from Alaska Zoo, Alaska; arrived 2024-03-05
+Total bears: 4
+
